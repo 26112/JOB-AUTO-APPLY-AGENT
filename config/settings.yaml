@@ -1,0 +1,11 @@
+job:
+  title: "Machine Learning Engineer"
+  location: "Remote"
+  max_jobs_per_session: 15
+
+experience:
+  max_extra_years: 2
+
+filters:
+  min_title_match: 70
+  min_skill_match: 5
