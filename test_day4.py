@@ -1,12 +1,10 @@
-# Day 3 Testing Script
-# This allows you to test the extraction with sample text if you don't have the PDF ready yet
-
+# Day 4 Test - Save results to file
 from resume.parser import build_resume_profile
 import json
 
 
-def test_with_sample_text():
-    """Test extraction with sample resume text"""
+def test_day4():
+    """Test Day 4 extraction and save to file"""
     sample_text = """
 Anuj Baghel
 Full Stack Developer
@@ -37,18 +35,25 @@ Bachelor of Technology in Computer Science
     
     profile = build_resume_profile(sample_text)
     
-    print("=== Testing Resume Extraction (Day 4) ===\n")
-    print(json.dumps(profile, indent=2, ensure_ascii=False))
+    # Save to file
+    with open("data/test_profile.json", "w", encoding="utf-8") as f:
+        json.dump(profile, f, indent=2, ensure_ascii=False)
     
-    print("\n=== Extraction Results ===")
+    print("=== Day 4 Test Results ===\n")
     print(f"✅ Name: {profile['name']}")
     print(f"✅ Email: {profile['email']}")
     print(f"✅ Phone: {profile['phone']}")
     print(f"✅ Location: {profile['location']}")
-    print(f"✅ Skills ({len(profile['skills'])}): {', '.join(profile['skills'][:10])}")
-    print(f"✅ Experience: {profile['experience_years']} years")
-    print(f"✅ Companies: {', '.join(profile['companies'])}")
+    print(f"\n✅ Skills Found ({len(profile['skills'])}):")
+    for skill in profile['skills']:
+        print(f"   • {skill}")
+    print(f"\n✅ Experience: {profile['experience_years']} years")
+    print(f"\n✅ Companies Found ({len(profile['companies'])}):")
+    for company in profile['companies']:
+        print(f"   • {company}")
+    
+    print(f"\n📄 Full profile saved to: data/test_profile.json")
 
 
 if __name__ == "__main__":
-    test_with_sample_text()
+    test_day4()
