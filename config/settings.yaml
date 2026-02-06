@@ -1,11 +1,20 @@
 job:
   title: "Machine Learning Engineer"
   location: "Remote"
+  portals:
+    - indeed
   max_jobs_per_session: 15
+  posted_within_days: 7
 
 experience:
   max_extra_years: 2
+  skip_senior_roles_under_years: 4
 
 filters:
   min_title_match: 70
   min_skill_match: 5
+
+behavior:
+  slow_mode: true
+  random_delay_min: 2
+  random_delay_max: 5

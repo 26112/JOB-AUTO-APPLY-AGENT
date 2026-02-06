@@ -1,0 +1,66 @@
+python
+javascript
+java
+c++
+c#
+ruby
+php
+go
+rust
+swift
+kotlin
+machine learning
+deep learning
+data science
+artificial intelligence
+ai
+sql
+nosql
+mongodb
+postgresql
+mysql
+pandas
+numpy
+scikit-learn
+tensorflow
+pytorch
+keras
+nlp
+natural language processing
+computer vision
+flask
+django
+fastapi
+react
+angular
+vue
+node.js
+express
+html
+css
+docker
+kubernetes
+git
+github
+gitlab
+linux
+unix
+aws
+azure
+gcp
+google cloud
+cloud computing
+devops
+ci/cd
+jenkins
+agile
+scrum
+rest api
+graphql
+microservices
+data structures
+algorithms
+testing
+unit testing
+selenium
+automation

@@ -20,10 +20,13 @@ ENV/
 
 # Logs
 *.log
-logging/
+memory/__pycache__/
 
-# Data files
-data/
+# Data files (but keep templates)
+data/resume_text.txt
+data/resume_profile.json
+data/test_profile.json
+data/*.pdf
 *.db
 *.sqlite
 
