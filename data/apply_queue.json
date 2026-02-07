@@ -1,0 +1,62 @@
+[
+  {
+    "job_title": "Senior Machine Learning Engineer",
+    "company": "Tebra",
+    "location": "Remote",
+    "url": "https://www.indeed.com/rc/clk?jk=17b4b9513dafe45a&bb=2dyAVycxwRfePjzV3wF7F6bksVq03CQnUftWmos9TTpqX1rGloZLO7p6PqHSbCxwmcq7ofOQjJy5l5sYfVGTRviyzOaE7AcuSIbdh9vcDWTYWZppZzAi1Xqfnm53xCPG&xkcb=SoAu67M3nbEfP6TxYZ0JbzkdCdPP&fccid=dc76bfb0aba8096e&vjs=3",
+    "decision": "APPLY",
+    "reasons": [
+      "All criteria met"
+    ],
+    "metrics": {
+      "title_match": 100.0,
+      "skill_match": 18,
+      "job_experience": 5
+    }
+  },
+  {
+    "job_title": "Senior Machine Learning Engineer",
+    "company": "Workiva",
+    "location": "Remote",
+    "url": "https://www.indeed.com/rc/clk?jk=d0d13ccfc80ed169&bb=2dyAVycxwRfePjzV3wF7F5XWYhTpqBA8-OZaKrakUl4m2hnTMBRdV1cddhuEDoaJh-nJfdN1MZlkG399pLKGonj2PT97F5LUAIK9vn-zndRQyDZLaURiLW7tJCBJznq_&xkcb=SoCg67M3nbEfP6TxYZ0ObzkdCdPP&fccid=c74820549fd8456b&vjs=3",
+    "decision": "APPLY",
+    "reasons": [
+      "All criteria met"
+    ],
+    "metrics": {
+      "title_match": 100.0,
+      "skill_match": 9,
+      "job_experience": 2
+    }
+  },
+  {
+    "job_title": "Staff Software Engineer - Machine Learning",
+    "company": "General Motors",
+    "location": "Remote",
+    "url": "https://www.indeed.com/rc/clk?jk=1b1ac594a3cff588&bb=2dyAVycxwRfePjzV3wF7F4C3Dy6_qOfhj7b_EomoMyiilOXAAvklxGy7lOvQkzBSIylg7PsC7sYJB8RArKW8Cgx3EzDu8sQ745CWdOU8bVEC2HSodgSlcmoCnD0G5Du3&xkcb=SoA967M3nbEfP6TxYZ0NbzkdCdPP&fccid=116680a29a847a70&vjs=3",
+    "decision": "APPLY",
+    "reasons": [
+      "All criteria met"
+    ],
+    "metrics": {
+      "title_match": 100.0,
+      "skill_match": 7,
+      "job_experience": 4
+    }
+  },
+  {
+    "job_title": "AI Engineer",
+    "company": "Dine Development Corporation",
+    "location": "Remote",
+    "url": "https://www.indeed.com/rc/clk?jk=bcc177017878a9d3&bb=2dyAVycxwRfePjzV3wF7FzMxRG70WOdWNPmeiBVE3r0PyNwvCjJIE8CIKPNjjbU0AMjQ6i_WnLeApF_jF8TRFrGmR9ahWQzhW89vhULyvzOW8xFKnLswLp7cEptq5fkS&xkcb=SoCJ67M3nbEfP6TxYZ0MbzkdCdPP&fccid=4df31e7755888b93&vjs=3",
+    "decision": "APPLY",
+    "reasons": [
+      "All criteria met"
+    ],
+    "metrics": {
+      "title_match": 84.21052631578948,
+      "skill_match": 8,
+      "job_experience": 2
+    }
+  }
+]

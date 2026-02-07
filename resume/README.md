@@ -1,29 +1,25 @@
 # Resume Folder
 
-## 📋 Instructions
+This folder contains your resume files for auto-apply.
 
-Place your resume PDF in this folder and name it:
+## Required Files
 
-```
-resume.pdf
-```
+1. **resume.pdf** - Your main resume (required for auto-apply)
+2. **cover_letter.pdf** - Optional cover letter
 
-## ⚠️ Important Requirements
+## How to Add Your Resume
 
-- **Must be a text-based PDF** (not scanned images)
-- Text must be selectable in the PDF
-- File name must be exactly: `resume.pdf`
+1. Place your resume PDF file in this folder
+2. Rename it to `resume.pdf`
+3. Run the auto-apply script
 
-## ✅ How to test if your PDF is valid
+## File Requirements
 
-1. Open your PDF
-2. Try to select text with your mouse
-3. If you can copy text → ✅ Good to go
-4. If text is not selectable → ❌ It's a scanned image (won't work)
+- Format: PDF
+- Max size: 5 MB (Indeed limit)
+- Filename: `resume.pdf`
 
-## 🔄 If you have a scanned PDF
+## Note
 
-Convert it using:
-- **Microsoft Word**: Open PDF → Save As → PDF
-- **Online tools**: Use a PDF to text converter
-- **Google Docs**: Upload → Download as PDF
+The `parser.py` file in this folder is used to extract information 
+from your resume for the matching engine.

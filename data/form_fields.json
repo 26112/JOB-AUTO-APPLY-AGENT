@@ -1,0 +1,32 @@
+[
+  {
+    "tag": "input",
+    "type": "radio",
+    "name": "resume-selection",
+    "id": ":r3:-input",
+    "placeholder": null,
+    "label": "Resume_Template (2).pdf",
+    "required": false,
+    "value": "file"
+  },
+  {
+    "tag": "input",
+    "type": "file",
+    "name": null,
+    "id": null,
+    "placeholder": null,
+    "label": "Maximum size: 5 MB",
+    "required": false,
+    "value": ""
+  },
+  {
+    "tag": "textarea",
+    "type": "textarea",
+    "name": "g-recaptcha-response",
+    "id": "g-recaptcha-response-100000",
+    "placeholder": null,
+    "label": "",
+    "required": false,
+    "value": ""
+  }
+]

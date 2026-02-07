@@ -1,0 +1,153 @@
+[
+  {
+    "job_title": "Junior AI/ML Engineer",
+    "company": "Therapy Brands Thrive, LLC",
+    "location": "Columbus, OH 43004",
+    "url": "https://www.indeed.com/rc/clk?jk=584b05d33e5d352f&bb=2dyAVycxwRfePjzV3wF7F-i6MFhm-A53R88iEHKvFSmsTz68dq8BuSgWi4ieEx_2MuUk1qX6UZBsakrKXmpFFqjBJTc9rUt0WU-4tzUWA7HwczjsSwjz2pXIlmYlNyh1&xkcb=SoBg67M3nbEfP6TxYZ0DbzkdCdPP&fccid=5290ed2101ae143f&vjs=3",
+    "decision": "SKIP",
+    "reasons": [
+      "Low title match (56.52173913043478% < 70%)",
+      "Location mismatch (Remote vs Columbus, OH 43004)"
+    ],
+    "metrics": {
+      "title_match": 56.52173913043478,
+      "skill_match": 16,
+      "job_experience": 3
+    }
+  },
+  {
+    "job_title": "Senior Applied Machine Learning Engineer",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Houston, TX 77070",
+    "url": "https://www.indeed.com/rc/clk?jk=3a558639f01c3f36&bb=2dyAVycxwRfePjzV3wF7F8Y7vM48KOCVu6iY5dEjUQGroAtF7gqnYbZunHApz7EN-kjm398BzLROtSh_EdBsqWgu9eIBo_4qlRBLueNkR1aX6G2V8BU9wHSuIszNkcW4&xkcb=SoDU67M3nbEfP6TxYZ0CbzkdCdPP&fccid=216eb700022de6f6&vjs=3",
+    "decision": "SKIP",
+    "reasons": [
+      "Location mismatch (Remote vs Houston, TX 77070)"
+    ],
+    "metrics": {
+      "title_match": 100.0,
+      "skill_match": 13,
+      "job_experience": 2
+    }
+  },
+  {
+    "job_title": "Senior Machine Learning Engineer",
+    "company": "Tebra",
+    "location": "Remote",
+    "url": "https://www.indeed.com/rc/clk?jk=17b4b9513dafe45a&bb=2dyAVycxwRfePjzV3wF7F6bksVq03CQnUftWmos9TTpqX1rGloZLO7p6PqHSbCxwmcq7ofOQjJy5l5sYfVGTRviyzOaE7AcuSIbdh9vcDWTYWZppZzAi1Xqfnm53xCPG&xkcb=SoAu67M3nbEfP6TxYZ0JbzkdCdPP&fccid=dc76bfb0aba8096e&vjs=3",
+    "decision": "APPLY",
+    "reasons": [
+      "All criteria met"
+    ],
+    "metrics": {
+      "title_match": 100.0,
+      "skill_match": 18,
+      "job_experience": 5
+    }
+  },
+  {
+    "job_title": "Staff Machine Learning Engineer",
+    "company": "Cohere Health",
+    "location": "Remote",
+    "url": "https://www.indeed.com/rc/clk?jk=42ecf263b80d7f16&bb=2dyAVycxwRfePjzV3wF7FxoZP7PnfbEU6RVP7qAJIcMH9GNNQxGghF33wxvcqoBOKU4qib4_frq8OEZLuMlSR1JDE86gg1PfYNtjXsjiS7hs9GGHzNbUMNU_BAs3tyo8&xkcb=SoCz67M3nbEfP6TxYZ0KbzkdCdPP&fccid=5ae54157ccaa866e&vjs=3",
+    "decision": "SKIP",
+    "reasons": [
+      "Experience exceeds limit (8 years > 5 years)"
+    ],
+    "metrics": {
+      "title_match": 100.0,
+      "skill_match": 11,
+      "job_experience": 8
+    }
+  },
+  {
+    "job_title": "Senior Machine Learning Engineer",
+    "company": "Workiva",
+    "location": "Remote",
+    "url": "https://www.indeed.com/rc/clk?jk=d0d13ccfc80ed169&bb=2dyAVycxwRfePjzV3wF7F5XWYhTpqBA8-OZaKrakUl4m2hnTMBRdV1cddhuEDoaJh-nJfdN1MZlkG399pLKGonj2PT97F5LUAIK9vn-zndRQyDZLaURiLW7tJCBJznq_&xkcb=SoCg67M3nbEfP6TxYZ0ObzkdCdPP&fccid=c74820549fd8456b&vjs=3",
+    "decision": "APPLY",
+    "reasons": [
+      "All criteria met"
+    ],
+    "metrics": {
+      "title_match": 100.0,
+      "skill_match": 9,
+      "job_experience": 2
+    }
+  },
+  {
+    "job_title": "Staff Machine Learning Engineer (GenAI and Automation)",
+    "company": "Redwood Logistics",
+    "location": "Remote",
+    "url": "https://www.indeed.com/rc/clk?jk=00bcac5f1a71ff59&bb=2dyAVycxwRfePjzV3wF7Fx88UGIwwx4YgoenJNjUskcxBfmXo0KD7fi7d3e9EhkjvBka7lDEDYs9rUut7MsjJCLSqgW4XCuaIa-y_kZrMPcamyw1JEueC9-yBED0w81g&xkcb=SoAH67M3nbEfP6TxYZ0LbzkdCdPP&fccid=981148a9f9182cfa&vjs=3",
+    "decision": "SKIP",
+    "reasons": [
+      "Experience exceeds limit (8 years > 5 years)"
+    ],
+    "metrics": {
+      "title_match": 100.0,
+      "skill_match": 10,
+      "job_experience": 8
+    }
+  },
+  {
+    "job_title": "Staff Software Engineer - Machine Learning",
+    "company": "General Motors",
+    "location": "Remote",
+    "url": "https://www.indeed.com/rc/clk?jk=1b1ac594a3cff588&bb=2dyAVycxwRfePjzV3wF7F4C3Dy6_qOfhj7b_EomoMyiilOXAAvklxGy7lOvQkzBSIylg7PsC7sYJB8RArKW8Cgx3EzDu8sQ745CWdOU8bVEC2HSodgSlcmoCnD0G5Du3&xkcb=SoA967M3nbEfP6TxYZ0NbzkdCdPP&fccid=116680a29a847a70&vjs=3",
+    "decision": "APPLY",
+    "reasons": [
+      "All criteria met"
+    ],
+    "metrics": {
+      "title_match": 100.0,
+      "skill_match": 7,
+      "job_experience": 4
+    }
+  },
+  {
+    "job_title": "Lead Machine Learning Engineer – Next Best Action (NBA) Platform",
+    "company": "Humana",
+    "location": "Remote",
+    "url": "https://www.indeed.com/rc/clk?jk=f89c48976a411768&bb=2dyAVycxwRfePjzV3wF7F5ng50E7M_qxl5KYgCgVeHF9NrXHGtbXu5bQiLSMaX2Wu54MM0T1Vll30CJ2IZKzqaIlNBwXXRdPX15kkeVfpLhGvzlh4RKhmTjWr5KLi336&xkcb=SoBa67M3nbEfP6TxYZ0FbzkdCdPP&fccid=5f1f0e6dcc6cbc83&vjs=3",
+    "decision": "SKIP",
+    "reasons": [
+      "Experience exceeds limit (8 years > 5 years)"
+    ],
+    "metrics": {
+      "title_match": 100.0,
+      "skill_match": 6,
+      "job_experience": 8
+    }
+  },
+  {
+    "job_title": "AI Engineer",
+    "company": "Dine Development Corporation",
+    "location": "Remote",
+    "url": "https://www.indeed.com/rc/clk?jk=bcc177017878a9d3&bb=2dyAVycxwRfePjzV3wF7FzMxRG70WOdWNPmeiBVE3r0PyNwvCjJIE8CIKPNjjbU0AMjQ6i_WnLeApF_jF8TRFrGmR9ahWQzhW89vhULyvzOW8xFKnLswLp7cEptq5fkS&xkcb=SoCJ67M3nbEfP6TxYZ0MbzkdCdPP&fccid=4df31e7755888b93&vjs=3",
+    "decision": "APPLY",
+    "reasons": [
+      "All criteria met"
+    ],
+    "metrics": {
+      "title_match": 84.21052631578948,
+      "skill_match": 8,
+      "job_experience": 2
+    }
+  },
+  {
+    "job_title": "Staff Machine Learning Engineer: Personalization",
+    "company": "PrizePicks",
+    "location": "Remote",
+    "url": "https://www.indeed.com/rc/clk?jk=d442bcb51ad98eb8&bb=2dyAVycxwRfePjzV3wF7F5XWYhTpqBA8dXAI7UpmPoX5vxLlni5E6J7WNdj-fsfmVO3juavF2TrqRKet_cVkKKxyi9VC_zHsU5hP7ZiiLSsP_voveEPj8gGWWWn6zgaj&xkcb=SoD967M3nbEfP6TxYZ0AbzkdCdPP&fccid=06b6e46c3cd5fbe3&vjs=3",
+    "decision": "SKIP",
+    "reasons": [
+      "Experience exceeds limit (7 years > 5 years)"
+    ],
+    "metrics": {
+      "title_match": 78.04878048780488,
+      "skill_match": 11,
+      "job_experience": 7
+    }
+  }
+]

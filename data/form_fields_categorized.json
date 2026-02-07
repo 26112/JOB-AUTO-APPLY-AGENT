@@ -1,0 +1,126 @@
+{
+  "text_inputs": [
+    {
+      "tag": "input",
+      "type": "password",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "label": "",
+      "required": false,
+      "value": ""
+    }
+  ],
+  "email": [
+    {
+      "tag": "input",
+      "type": "email",
+      "name": "__email",
+      "id": "ifl-InputFormField-:passport-ssr-r0:",
+      "placeholder": "youremail@email.com or 9876543210",
+      "label": "Email address or phone number *",
+      "required": false,
+      "value": ""
+    }
+  ],
+  "phone": [],
+  "file_upload": [],
+  "textarea": [],
+  "dropdown": [],
+  "checkbox": [],
+  "radio": [],
+  "submit": [
+    {
+      "tag": "button",
+      "type": "submit",
+      "name": null,
+      "id": null,
+      "placeholder": null,
+      "label": "",
+      "required": false,
+      "value": ""
+    }
+  ],
+  "other": [
+    {
+      "tag": "input",
+      "type": "hidden",
+      "name": "preExtRedirectUrl",
+      "id": "preExtRedirectUrl",
+      "placeholder": null,
+      "label": "",
+      "required": false,
+      "value": ""
+    },
+    {
+      "tag": "input",
+      "type": "hidden",
+      "name": "token",
+      "id": "token",
+      "placeholder": null,
+      "label": "",
+      "required": false,
+      "value": ""
+    },
+    {
+      "tag": "input",
+      "type": "hidden",
+      "name": "clientId",
+      "id": "apple-auth-client",
+      "placeholder": null,
+      "label": "",
+      "required": false,
+      "value": ""
+    },
+    {
+      "tag": "input",
+      "type": "hidden",
+      "name": "code",
+      "id": "apple-auth-code",
+      "placeholder": null,
+      "label": "",
+      "required": false,
+      "value": ""
+    },
+    {
+      "tag": "input",
+      "type": "hidden",
+      "name": "state",
+      "id": "apple-auth-state",
+      "placeholder": null,
+      "label": "",
+      "required": false,
+      "value": ""
+    },
+    {
+      "tag": "input",
+      "type": "hidden",
+      "name": "id_token",
+      "id": "apple-auth-id_token",
+      "placeholder": null,
+      "label": "",
+      "required": false,
+      "value": ""
+    },
+    {
+      "tag": "input",
+      "type": "hidden",
+      "name": "familyName",
+      "id": "apple-auth-familyName",
+      "placeholder": null,
+      "label": "",
+      "required": false,
+      "value": ""
+    },
+    {
+      "tag": "input",
+      "type": "hidden",
+      "name": "givenName",
+      "id": "apple-auth-givenName",
+      "placeholder": null,
+      "label": "",
+      "required": false,
+      "value": ""
+    }
+  ]
+}

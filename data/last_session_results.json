@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-02-07T13:10:33.710651",
+  "total_attempted": 2,
+  "successful": 0,
+  "failed": 2,
+  "results": [
+    {
+      "job_title": "Senior Machine Learning Engineer",
+      "company": "Tebra",
+      "success": false,
+      "reason": "Submit button not found"
+    },
+    {
+      "job_title": "AI Engineer",
+      "company": "Dine Development Corporation",
+      "success": false,
+      "reason": "Submit button not found"
+    }
+  ]
+}
